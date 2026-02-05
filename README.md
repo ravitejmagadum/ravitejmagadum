@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravitej Magadum</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An aspiring Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **Python and Front end development**
+- 🌱 I’m currently learning **Data Science and AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravitejmagadum/PythonLearner](https://github.com/ravitejmagadum/PythonLearner)
 
