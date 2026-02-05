@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravitej Magadum</h1>
 <h3 align="center">An aspiring Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **Data Science and AI**
+- 🌱 I’m currently learning **Data Science and AI - IBM Coursera**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravitejmagadum/PythonLearner](https://github.com/ravitejmagadum/PythonLearner)
 
